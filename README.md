@@ -6,7 +6,7 @@ _Based on this [gist](https://gist.github.com/vbsessa/e337d0add70a71861b8c580d5e
 
 Change the default chrome devtools to whichever font you want
 
-# Instructions
+## Instructions
 
 1. Clone the repository
 2. Edit the `style.css`
@@ -18,3 +18,5 @@ Change the default chrome devtools to whichever font you want
 4. Open chrome extensions `chrome://extensions` & Enable developer mode
 5. Click on load unpack and select the cloned folder
 
+## Additional steps for Mac/Windows
+Replace the `.platform-linux` with `.platform-mac` (for Mac) & `.platform-windows` (for Windows) in `style.css`
